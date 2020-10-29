@@ -1,4 +1,4 @@
-class Supermarket
+class Supermarket  //Constructor example1
 {
 int customer_id;
 String customer_name;
