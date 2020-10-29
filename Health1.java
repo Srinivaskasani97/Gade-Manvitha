@@ -1,4 +1,4 @@
-  import java.util.Scanner;
+  import java.util.Scanner;      //scanner example1
 class Hospital{
 	String patient_name;
 	String patient_address;
