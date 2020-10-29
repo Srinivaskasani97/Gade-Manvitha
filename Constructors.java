@@ -1,4 +1,4 @@
-class Teacher
+class Teacher //constructor example2
 {
 int teacher_id;
 String teacher_name;
