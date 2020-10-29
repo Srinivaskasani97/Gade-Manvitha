@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner;  //scanner example3
 class Student{
 int student_id;
 String student_name;
