@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner;  //scanner example2
 class HotelStaff{
 	String staff_name;
 	String staff_address;
